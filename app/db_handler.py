@@ -8,7 +8,7 @@ def read_data():
     if os.path.exists(DB_FILE):
         with open(DB_FILE, 'r') as file:
             return json.load(file)
-    return {"users": []}
+    return {"users": []}  # Retorna um dicionário vazio com chave 'users' se o arquivo não existir
 
 # Função para salvar os dados no arquivo JSON
 def write_data(data):
