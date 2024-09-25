@@ -8,7 +8,7 @@
 
 ## 🔖&nbsp; Sobre
 
-O projeto **API REST - Cadastro de usuários** é uma aplicação back-end para cadastro, autenticação e CRUD dos usuários. Foi desenvolvida com o objetivo de avaliar meus conhecimentos em Python num processo de seleção da Empresa SXComercio.
+O projeto **API REST - Cadastro de usuários** é uma aplicação back-end para cadastro, autenticação e CRUD dos usuários. Foi desenvolvida com o objetivo de avaliar meus conhecimentos em Python num processo de seleção da Empresa SXNegócios.
 
 ---
 
